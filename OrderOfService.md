@@ -206,32 +206,9 @@ Glory be to the Father, and to the Son: and to the Holy Ghost;\
 
 John Taverner (1490 - 1545), Kyrie Le Roy
 
-Kyrie Eleison
-Kyrie Eleison
-Kyrie Eleison
-
-Christe Eleison
-Christe Eleison
-Christe Eleison
-
-Kyrie Eleison
-Kyrie Eleison
-Kyrie Eleison
-
 ## Gloria
 
 Thomas Tallis (1505 - 1585), Missa Sine Nomine
-
-Gloria in excelsis Deo. Et in terra pax hominibus bonae voluntatis.
-Laudamus te. Benedicimus te. Adoramus te. Glorificamus te. Gratias
-agimus tibi propter magnam gloriam tuam. Domine Deus, Rex caelestis,
-Deus Pater omnipotens.
-Domine Fili unigenite, Jesu Christe. Domine Deus, Agnus Dei, Filius
-Patris. Qui tollis peccata mundi, miserere nobis. Qui tollis peccata
-mundi, suscipe deprecationem nostram. Qui sedes ad dexteram Patris,
-miserere nobis.
-Quoniam tu solus Sanctus. Tu solus Dominus. Tu solus Altissimus, Jesu
-Christe. + Cum Sancto Spiritu, in gloria Dei Patris. Amen.
 
 ## The Collect of the Day / Wedding Collect
 
