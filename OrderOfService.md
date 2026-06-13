@@ -64,21 +64,21 @@ _Then shall they again loose their hands; and the man shall give unto the woman 
 And the Priest, taking a ring, shall deliver it unto the man, to put it upon the fourth finger of the woman's left hand.
 And the man holding the ring there and taught by the Priest, shall say,_
 
-With this ring I thee wed, with my body I thee woship, and with all my wordly goods I thee endow: In the name of the Father, and of the Son, and of the Holy Ghost. Amen.
+With this ring I thee wed, with my body I thee worship, and with all my worldly goods I thee endow: In the name of the Father, and of the Son, and of the Holy Ghost. Amen.
 
 _Then the Priest, taking the other ring, shall deliver it unto the woman, to put it upon the fourth finger of the man's left hand.
 And the woman holding the Ring there, and taught by the Priest, shall say,_
 
-With this ring I thee wed, with my body I thee woship, and with all my wordly goods I thee endow: In the name of the Father, and of the Son, and of the Holy Ghost. Amen.
+With this ring I thee wed, with my body I thee worship, and with all my worldly goods I thee endow: In the name of the Father, and of the Son, and of the Holy Ghost. Amen.
 
 _Then the man leaving the ring upon the fourth finger of the woman's left hand, they shall both kneel down; and the Minister shall say,_
 
-Ley us Pray.
+Let us Pray.
 
-O Eternal God, Creater and Preserver of all mankind, giver of all spiritual grace, the author of everlasting life:
+O Eternal God, Creator and Preserver of all mankind, giver of all spiritual grace, the author of everlasting life:
 Send thy blessing upon these thy servants, this man and this woman, whom we bless in thy name;
 that, as Isaac and Rebecca lived faithfully together, so these persons may surely perform and keep the vow and covenant betwixt them made,
-(whereof these rings given and recieved are a token and pledge,) and may ever remain in perfect love and peace together, and live according to thy laws;
+(whereof these rings given and received are a token and pledge,) and may ever remain in perfect love and peace together, and live according to thy laws;
 through Jesus Christ our Lord.\
 *Amen.*
 
@@ -132,7 +132,7 @@ Through.
 
 Let us pray.
 
-Favourably regard, O Lord, this Thy servant and this Thy handmaid, that in Thy Name they may recieve a heavenly benediction, see the children of their sons and daughters to the third and fourth generations in safety, ever remain stedfast in Thy will, and at length attain unto the Kingdom of Heaven.
+Favourably regard, O Lord, this Thy servant and this Thy handmaid, that in Thy Name they may receive a heavenly benediction, see the children of their sons and daughters to the third and fourth generations in safety, ever remain steadfast in Thy will, and at length attain unto the Kingdom of Heaven.
 Through.
 
 Let us pray.
@@ -150,7 +150,7 @@ That earliest wedding day, \
 The primal marriage blessing, \
 It hath not pass'd away:
 
-Stil in the pure espousal \
+Still in the pure espousal \
 Of Christian man and married \
 The Holy Three are with us, \
 The threefold grace is said,
@@ -250,7 +250,7 @@ And they were both naked, the man and his wife, and were not ashamed.
 How beautiful are thy feet with shoes, O prince's daughter! the joints of thy thighs are like jewels, the work of the hands of a cunning workman.
 Thy navel is like a round goblet, which wanteth not liquor: thy belly is like an heap of wheat set about with lilies.
 Thy two breasts are like two young roes that are twins.
-Thy neck is as a tower of ivory; thine eyes like the fishpools in Heshbon, by the gate of Bathrabbim: thy nose is as the tower of Lebanon which looketh toward Damascus.
+Thy neck is as a tower of ivory; thine eyes like the fish-pools in Heshbon, by the gate of Bathrabbim: thy nose is as the tower of Lebanon which looketh toward Damascus.
 Thine head upon thee is like Carmel, and the hair of thine head like purple; the king is held in the galleries.
 How fair and how pleasant art thou, O love, for delights!
 This thy stature is like to a palm tree, and thy breasts to clusters of grapes.
@@ -287,7 +287,7 @@ Nevertheless let every one of you in particular so love his wife even as himself
 
 How welcome was the call, \
 And sweet the festal lay, \
-When Jesus deign'd in Cana's hall \
+When Jesus deigned in Cana's hall \
 To bless the marriage day!
 
 And happy was the bride, \
@@ -303,11 +303,11 @@ The wondering servants drew.
 O Lord of life and love, \
 Come Thou again today; \
 And bring a blessing from above \
-That ne'er shal pass away.
+That ne'er shall pass away.
 
 O bless as erst of old, \
 The Bridegroom and the Bride; \
-Bless with the holier stream that flow'd \
+Bless with the holier stream that flowed \
 Forth from Thy piers\'ed Side.
 
 Before Thine Altar-throne \
@@ -410,7 +410,7 @@ Through Jesus Christ our Lord.
 Almighty and everlasting God, who hast given unto us thy servants grace,
 by the confession of a true faith to acknowledge the glory of the eternal Trinity,
 and in the power of the Divine Majesty to worship the Unity:
-We beseech thee, that thou wouldest keep us stedfast in this faith,
+We beseech thee, that thou wouldest keep us steadfast in this faith,
 and evermore defend us from all adversities,
 who livest and reignest, one God, world without end.
 *Amen.*
@@ -421,8 +421,8 @@ Almighty and everlasting God, Who hast given unto us Thy
 servants grace, by the confession of a true faith, to acknowledge
 the glory of the eternal Trinity, and in the power of the Divine
 Majesty to worship the Unity; we beseech Thee, that Thou
-wouldest keep us stedfast in this faith, and evermore defend us
-from all adversities. Who livest and righnest, one God, world without end.
+wouldest keep us steadfast in this faith, and evermore defend us
+from all adversities. Who livest and reignest, one God, world without end.
 *Amen.*
 
 ## Invitation to Confession
@@ -445,7 +445,7 @@ By thought, word, and deed,\
 Against Thy Divine Majesty,\
 Provoking most justly Thy wrath and indignation against us.\
 We do earnestly repent,\
-And are heartly sorry for these our misdoings;\
+And are heartily sorry for these our misdoings;\
 The remembrance of them is grievous unto us;\
 The burden of them is intolerable.\
 Have mercy upon us,\
@@ -557,7 +557,7 @@ Almighty God, who at the beginning did create our first parents, Adam and Eve, a
 ### Option 2 (Sarum)
 
 _A pall or veil being held over them, which four of the clergy in surplices hold at the four corners._
-_Then before The Peace of the Lord, after making the Eucharistic fraction in the usual manner, and having left the Host on the paten in three pieces, let the Priest turn to theem and say these prayers reading, as they kneel under the pall_
+_Then before The Peace of the Lord, after making the Eucharistic fraction in the usual manner, and having left the Host on the paten in three pieces, let the Priest turn to them and say these prayers reading, as they kneel under the pall_
 
 The Lord be with you, \
 *And with thy spirit.*
@@ -580,7 +580,7 @@ mystery, that in it is signified the sacramental union and marriage
 of Christ and the Church; O God, by Whom woman is joined
 to man, and the union, instituted in the beginning, is gifted with
 that bles+sing which alone has not been taken away either
-through penalty of original sin or the judgment of the deluge;
+through penalty of original sin or the judgement of the deluge;
 look graciously, we beseech Thee, on this Thine
 handmaid now to be joined in wedlock, who earnestly desireth to
 be guarded by Thy protection. Let the yoke of love and peace be
@@ -591,7 +591,7 @@ faithful as Sara. Let not the father of lies get advantage
 over her through her doings; let her abide in the bond of faith and
 precept; being wedded to one man, let her flee all unlawful
 conversation, and fortify her weakness with the strength of discipline.
-Let her be grave and bashful, severe and modest, well-instrifcted
+Let her be grave and bashful, severe and modest, well-instructed
 in heavenly doctrine. Let her be fruitful in child-bearing, well
 reported of, and innocent, and attain to a desired old age, seeing
 her children’s children unto the third and fourth generation, and
@@ -600,10 +600,10 @@ Through.
 
 ## The Pax
 
-The peace of the Lod be alway with you;\
+The peace of the Lord be alway with you;\
 *And with thy spirit*
 
-_Let the pall now be removed, let the Bridegroom and Bride rise and the Bridegroom recieve The Peace from the Priest and give it to the Bride, kissing her, and no one else._
+_Let the pall now be removed, let the Bridegroom and Bride rise and the Bridegroom receive The Peace from the Priest and give it to the Bride, kissing her, and no one else._
 
 ## Agnus Dei
 
@@ -635,7 +635,7 @@ Depart in Peace; \
 
 The peace of God, which passeth all understanding, keep your hearts and minds
 in the knowledge and love of God, and of his Son Jesus Christ our Lord: and the
-blassing of God Almighty, + the Father, the Son, and the Holy Ghost, be amongst
+blessing of God Almighty, + the Father, the Son, and the Holy Ghost, be amongst
 you and remain with you always. *Amen*
 
 ## Post Communion Hymn - EH 345
@@ -651,7 +651,7 @@ A love by thee kept true.
 
 O Saviour, Guest most bounteous\
 Of old in Galilee,\
-Vouchsave today Thy presence\
+Vouchsafe today Thy presence\
 With these who call on Thee;\
 Their store of earthly gladness\
 Transform to heavenly wine,\
