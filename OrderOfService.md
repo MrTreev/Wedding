@@ -544,15 +544,15 @@ Be unto them, O Lord, a tower of strength;\
 O Lord, hear our prayer;\
 *And let our cry come unto thee.*
 
-O God of Abraham, God of Isaac, God of Jacob, bless these thy servants, and sow the seed of eternal life in their hearts; that whatsoever in thy holy Word they shall profitably learn, they may in deed fulfil the same. Look, O Lord, mercifully upon them from heaven, and bless them. And as thou didst send thy blessing upon Abraham and Sarah, to their great comfort, so vouchsafe to send thy blessing upon these thy servants; that they obeying thy will, and alway being in safety under thy protection, may abide in thy love unto their lives' end; through Jesus Christ our Lord. Amen.
+O God of Abraham, God of Isaac, God of Jacob, bless these thy servants, and sow the seed of eternal life in their hearts; that whatsoever in thy holy Word they shall profitably learn, they may in deed fulfil the same. Look, O Lord, mercifully upon them from heaven, and bless them. And as thou didst send thy blessing upon Abraham and Sarah, to their great comfort, so vouchsafe to send thy blessing upon these thy servants; that they obeying thy will, and alway being in safety under thy protection, may abide in thy love unto their lives' end; through Jesus Christ our Lord. *Amen.*
 
-O merciful Lord, and heavenly Father, by whose gracious gift mankind is increased: We beseech thee, assist with thy blessing these two persons, that they may both be fruitful in procreation of children, and also live together so long in godly love and honesty, that they may see their children christianly and virtuously brought up, to thy praise and honour; through Jesus Christ our Lord. Amen.
+O merciful Lord, and heavenly Father, by whose gracious gift mankind is increased: We beseech thee, assist with thy blessing these two persons, that they may both be fruitful in procreation of children, and also live together so long in godly love and honesty, that they may see their children christianly and virtuously brought up, to thy praise and honour; through Jesus Christ our Lord. *Amen.*
 
-O God, who by thy mighty power hast made all things of nothing; who also (after other things set in order) didst appoint, that out of man (created after thine own image and similitude) woman should take her beginning; and, knitting them together, didst teach that it should never be lawful to put asunder those whom thou by Matrimony hadst made one: O God, who hast consecrated the state of Matrimony to such an excellent mystery, that in it is signified and represented the spiritual marriage and unity betwixt Christ and his Church: Look mercifully upon these thy servants, that both this man may love his wife, according to thy Word, (as Christ did love his spouse the Church, who gave himself for it, loving and cherishing it even as his own flesh,) and also that this woman may be loving and amiable, faithful and obedient to her husband; and in all quietness, sobriety, and peace, be a follower of holy and godly matrons. O Lord, bless them both, and grant them to inherit thy everlasting kingdom; through Jesus Christ our Lord. Amen.
+O God, who by thy mighty power hast made all things of nothing; who also (after other things set in order) didst appoint, that out of man (created after thine own image and similitude) woman should take her beginning; and, knitting them together, didst teach that it should never be lawful to put asunder those whom thou by Matrimony hadst made one: O God, who hast consecrated the state of Matrimony to such an excellent mystery, that in it is signified and represented the spiritual marriage and unity betwixt Christ and his Church: Look mercifully upon these thy servants, that both this man may love his wife, according to thy Word, (as Christ did love his spouse the Church, who gave himself for it, loving and cherishing it even as his own flesh,) and also that this woman may be loving and amiable, faithful and obedient to her husband; and in all quietness, sobriety, and peace, be a follower of holy and godly matrons. O Lord, bless them both, and grant them to inherit thy everlasting kingdom; through Jesus Christ our Lord. *Amen.*
 
 _Then shall the Priest say,_
 
-Almighty God, who at the beginning did create our first parents, Adam and Eve, and did sanctify and join them together in marriage; Pour upon you the riches of his grace, sanctify and bless you, that ye may please him both in body and soul, and live together in holy love unto your lives' end. Amen.
+Almighty God, who at the beginning did create our first parents, Adam and Eve, and did sanctify and join them together in marriage; Pour upon you the riches of his grace, sanctify and bless you, that ye may please him both in body and soul, and live together in holy love unto your lives' end. *Amen.*
 
 ### Option 2 (Sarum)
 
@@ -640,40 +640,40 @@ you and remain with you always. *Amen*
 
 ## Post Communion Hymn - EH 345
 
-O Father all creating,
-Whose wisdom, love, and power
-First bound two lives together
-In Eden's primal hour,
-Today to these thy children
-Thine earliest gifts renew,
-A home by thee made happy,
+O Father all creating,\
+Whose wisdom, love, and power\
+First bound two lives together\
+In Eden's primal hour,\
+Today to these thy children\
+Thine earliest gifts renew,\
+A home by thee made happy,\
 A love by thee kept true.
 
-O Saviour, Guest most bounteous
-Of old in Galilee,
-Vouchsave today Thy presence
-With these who call on Thee;
-Their store of earthly gladness
-Transform to heavenly wine,
-And teach them, in the tasting
+O Saviour, Guest most bounteous\
+Of old in Galilee,\
+Vouchsave today Thy presence\
+With these who call on Thee;\
+Their store of earthly gladness\
+Transform to heavenly wine,\
+And teach them, in the tasting\
 To know the gift is Thine.
 
-O Spirit of the Father,
-Breathe on them from above,
-So mighty in Thy pureness,
-So tender in Thy love;
-That guarded by Thy presence,
-From sin and strife kept free,
-Their lives may own Thy guidance,
+O Spirit of the Father,\
+Breathe on them from above,\
+So mighty in Thy pureness,\
+So tender in Thy love;\
+That guarded by Thy presence,\
+From sin and strife kept free,\
+Their lives may own Thy guidance,\
 Their hearts be ruled by Thee.
 
-Except Thou build it, Father,
-The house is built in vain;
-Except Thou, Saviour, bless it,
-The joy will turn to pain;
-But nought can break the marriage
-Of hearts in Thee made one,
-And love Thy Spirit hallows
+Except Thou build it, Father,\
+The house is built in vain;\
+Except Thou, Saviour, bless it,\
+The joy will turn to pain;\
+But nought can break the marriage\
+Of hearts in Thee made one,\
+And love Thy Spirit hallows\
 Is endless love begun.
 
 # Tables
