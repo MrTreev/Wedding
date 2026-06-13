@@ -195,7 +195,12 @@ Amen.*
 
 ## Introit
 
-TODO
+The God of Israel make you one, / and may he be with you even as he had mercy of two that were the only begotten of their fathers:\
+*grant them mercy, O Lord, / and finish their life in health with joy.*\
+Blessed are all they that fear the Lord:\
+*and walk in his ways.*\
+Glory be to the Father, and to the Son: and to the Holy Ghost;\
+*As it was in the beginning, is now, and ever shall be: world without end. Amen.*
 
 ## The Kyries
 
@@ -230,7 +235,14 @@ Christe. + Cum Sancto Spiritu, in gloria Dei Patris. Amen.
 
 ## The Collect of the Day / Wedding Collect
 
-TODO
+O God, who by thy mighty power hast made all things of nothing;
+who also (after other things set in order) didst appoint that out of man (created after thine own image and similitude) woman should take her beginning;
+and, knitting them together, didst teach that it should never be lawful to put asunder those whom thou by Matrimony hadst made one;
+O God, who hast consecrated the state of Matrimony to such an excellent mystery, that in it is signified and represented the spiritual marriage and unity betwixt Christ and his Church:
+Look mercifully upon these thy servants, that both this man may love his wife, according to thy Word(as Christ did love his spouse the church, who gave himself for it, loving and cherishing it even as his own flesh),
+and also that this woman may be loving and amiable, faithful and obedient to her husband, and in all quietness, sobriety, and peace be a follower of holy and godly matrons.
+O Lord, bless them both, and grant them to inherit thine everlasting kingdom; through Jesus Christ our Lord.\
+*Amen*
 
 ## The First Reading
 
@@ -264,7 +276,10 @@ The mandrakes give a smell, and at our gates are all manner of pleasant fruits, 
 
 ## Gradual
 
-TODO
+Blessed are all they that fear the Lord, and walk in this ways:\
+*for thou shalt eat the labours of thy hands; / O well is thee and happy shalt thou be.*\
+Thy wife shall be as the fruitful vine, upon the walls of thine house:\
+*thy children like the olive branches, round about thy table.*
 
 ## The Epistle - Ephesians 5:20-33
 
@@ -317,7 +332,9 @@ So bless them evermore
 
 ## Alleluia
 
-TODO
+Alleluia. *Alleluia.*\
+The Lord send you help from the sanctuary:\
+*and strengthen you out of Sion. Alleluia.*
 
 ## The Gospel - Mark 10:1-16
 
@@ -378,7 +395,8 @@ Amen.
 
 ## Offertory Sentence
 
-TODO
+Above all things put on love, which binds everything together in perfect harmony:\
+*and let the peace of Christ rule in your hearts, and be ye thankful.*
 
 ## Offertory Hymn NEH 319
 
@@ -402,7 +420,7 @@ The trusted friend, the constant guide.
 ### Anglican Missal
 
 Almighty and merciful God, we beseech thee to hear us: that whatsoever is now done by our office and ministry, may be fulfilled with the abundance of thy benediction.
-Through Jesus Christ our Lord.
+Through Jesus Christ our Lord.\
 *Amen.*
 
 ### BCP (Trinity)
@@ -412,7 +430,7 @@ by the confession of a true faith to acknowledge the glory of the eternal Trinit
 and in the power of the Divine Majesty to worship the Unity:
 We beseech thee, that thou wouldest keep us steadfast in this faith,
 and evermore defend us from all adversities,
-who livest and reignest, one God, world without end.
+who livest and reignest, one God, world without end.\
 *Amen.*
 
 ### Sarum (Trinity)
@@ -422,7 +440,7 @@ servants grace, by the confession of a true faith, to acknowledge
 the glory of the eternal Trinity, and in the power of the Divine
 Majesty to worship the Unity; we beseech Thee, that Thou
 wouldest keep us steadfast in this faith, and evermore defend us
-from all adversities. Who livest and reignest, one God, world without end.
+from all adversities. Who livest and reignest, one God, world without end.\
 *Amen.*
 
 ## Invitation to Confession
@@ -490,10 +508,10 @@ and that we may evermore dwell in him, and he in us. Amen*
 The Lord be with you;\
 *And with thy spirit.*
 
-Lift up your hearts;
+Lift up your hearts;\
 *We lift them up unto the Lord.*
 
-Let us give thanks unto our Lord God;
+Let us give thanks unto our Lord God;\
 *It is meet and right so to do*
 
 It is very meet, right, and our bounden duty, that we should at all times, and in
@@ -603,7 +621,7 @@ Through.
 The peace of the Lord be alway with you;\
 *And with thy spirit*
 
-_Let the pall now be removed, let the Bridegroom and Bride rise and the Bridegroom receive The Peace from the Priest and give it to the Bride, kissing her, and no one else._
+_For the Sarum rite, Let the pall now be removed_
 
 ## Agnus Dei
 
@@ -615,7 +633,8 @@ Thomas Tallis (1505 - 1585), A New Commandment
 
 ## Communion Sentence
 
-TODO
+Put thou thy trust in the Lord, and be doing good; dwell in the land, and verily thou shalt be fed:\
+*delight thou in the Lord; and he shall give thee thy heart’s desire.*
 
 ## The Post Communion Prayer
 
