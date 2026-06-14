@@ -1,8 +1,12 @@
-_Please stand for the entrance of the Sacred Ministers._
+---
+geometry: a4paper,margin=2cm
+---
 
-_The Sacred Ministers stand at the Chancel step. The Bride and Groom and their attendants likewise move to the Chancel step._
+_\textcolor{red}{Please stand for the entrance of the Sacred Ministers.}_
 
-_At the day and time appointed for solemnization of Matrimony, the persons to be married shall come into the Body of the Church with their friends and neighbours: and there standing together, the Man on the right hand, and the Woman on the left, the Priest shall say,_
+_\textcolor{red}{The Sacred Ministers stand at the Chancel step. The Bride and Groom and their attendants likewise move to the Chancel step.}_
+
+_\textcolor{red}{At the day and time appointed for solemnization of Matrimony, the persons to be married shall come into the Body of the Church with their friends and neighbours: and there standing together, the Man on the right hand, and the Woman on the left, the Priest shall say,}_
 
 Dearly beloved, we are gathered together here in the sight of God, his angels and all the saints, and in the face of the Church, to join together two bodies, to wit, those of this man and this woman in holy Matrimony;
 which is an honourable estate, instituted of God in the time of man's innocency, signifying unto us the mystical union that is betwixt Christ and his Church;
@@ -20,58 +24,58 @@ Thirdly, It was ordained for the mutual society, help, and comfort, that the one
 Into which holy estate these two persons present come now to be joined.
 Therefore if any man can shew any just cause, why they may not lawfully be joined together, let him now speak, or else hereafter for ever hold his peace.
 
-_And also, speaking unto the persons that shall be married, he shall say,_
+_\textcolor{red}{And also, speaking unto the persons that shall be married, he shall say,}_
 
 I require and charge you both, as ye will answer at the dreadful day of judgement, when the secrets of all hearts shall be disclosed, that if either of you know any impediment, why ye may not be lawfully joined together in Matrimony, ye do now confess it.
 For be ye well assured, that so many as are coupled together otherwise than God's Word doth allow are not joined together by God; neither is their Matrimony lawful.
 
-_At which day of Marriage, if any man do allege and declare any impediment, why they may not be coupled together in Matrimony, by God's law, or the laws of this Realm; and will be bound, and sufficient sureties with him, to the parties;
-or else put in a caution (to the full value of such charges as the persons to be married do thereby sustain) to prove his allegation: then the solemnization must be deferred, until such time as the truth be tried._
+_\textcolor{red}{At which day of Marriage, if any man do allege and declare any impediment, why they may not be coupled together in Matrimony, by God's law, or the laws of this Realm; and will be bound, and sufficient sureties with him, to the parties;
+or else put in a caution (to the full value of such charges as the persons to be married do thereby sustain) to prove his allegation: then the solemnization must be deferred, until such time as the truth be tried.}_
 
 ##  Solemnization of Matrimony
 
-_The Sacred Ministers stand at the Chancel step. The Bride and Groom and their attendants likewise move to the Chancel step._
+_\textcolor{red}{The Sacred Ministers stand at the Chancel step. The Bride and Groom and their attendants likewise move to the Chancel step.}_
 
-_If no impediment be alleged, then shall the Priest say unto the Man,_
+_\textcolor{red}{If no impediment be alleged, then shall the Priest say unto the Man,}_
 
 Oliver, wilt thou have this woman to thy wedded wife, to live together after God's ordinance in the holy estate of Matrimony?
 Wilt thou love her, comfort her, honour, and keep her in sickness and in health; and, forsaking all other, keep thee only unto her, so long as ye both shall live?
 
-_The Man shall answer,_ I will.
+_\textcolor{red}{The Man shall answer,}_ I will.
 
-_Then shall the Priest say unto the Woman,_
+_\textcolor{red}{Then shall the Priest say unto the Woman,}_
 
 Caitlin, wilt thou have this man to thy wedded husband, to live together after God's ordinance in the holy estate of Matrimony?
 Wilt thou obey him, and serve him, love, honour, and keep him in sickness and in health; and, forsaking all other, keep thee only unto him, so long as ye both shall live?
 
-_The Woman shall answer,_ I will.
+_\textcolor{red}{The Woman shall answer,}_ I will.
 
-_Then shall the Priest say,_
+_\textcolor{red}{Then shall the Priest say,}_
 
 Who giveth this woman to be married to this man?
 
-_Then shall they give their troth to each other in this manner._
+_\textcolor{red}{Then shall they give their troth to each other in this manner.}_
 
-_The Minister receiving the woman at her father's hands, shall cause the man with his right hand to take the woman by her right hand, and to say after him as followeth._
+_\textcolor{red}{The Minister receiving the woman at her father's hands, shall cause the man with his right hand to take the woman by her right hand, and to say after him as followeth.}_
 
 I Oliver take thee Caitlin to my wedded wife, to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love and to cherish, till death us do part, according to God's holy ordinance; and thereto I plight thee my troth.
 
-_Then shall they loose their hands; and the woman with her right hand taking the man by his right hand, shall likewise say after the Minister_
+_\textcolor{red}{Then shall they loose their hands; and the woman with her right hand taking the man by his right hand, shall likewise say after the Minister}_
 
 I Caitlin take thee Oliver to my wedded husband, to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love, cherish, and to obey, till death us do part, according to God's holy ordinance; and thereto I give thee my troth.
 
-_Then shall they again loose their hands; and the man shall give unto the woman a ring, laying the same upon the book with the accustomed duty to the Priest and Clerk.
+_\textcolor{red}{Then shall they again loose their hands; and the man shall give unto the woman a ring, laying the same upon the book with the accustomed duty to the Priest and Clerk.
 And the Priest, taking a ring, shall deliver it unto the man, to put it upon the fourth finger of the woman's left hand.
-And the man holding the ring there and taught by the Priest, shall say,_
+And the man holding the ring there and taught by the Priest, shall say,}_
 
 With this ring I thee wed, with my body I thee worship, and with all my worldly goods I thee endow: In the name of the Father, and of the Son, and of the Holy Ghost. Amen.
 
-_Then the Priest, taking the other ring, shall deliver it unto the woman, to put it upon the fourth finger of the man's left hand.
-And the woman holding the Ring there, and taught by the Priest, shall say,_
+_\textcolor{red}{Then the Priest, taking the other ring, shall deliver it unto the woman, to put it upon the fourth finger of the man's left hand.
+And the woman holding the Ring there, and taught by the Priest, shall say,}_
 
 With this ring I thee wed, with my body I thee worship, and with all my worldly goods I thee endow: In the name of the Father, and of the Son, and of the Holy Ghost. Amen.
 
-_Then the man leaving the ring upon the fourth finger of the woman's left hand, they shall both kneel down; and the Minister shall say,_
+_\textcolor{red}{Then the man leaving the ring upon the fourth finger of the woman's left hand, they shall both kneel down; and the Minister shall say,}_
 
 Let us Pray.
 
@@ -80,13 +84,13 @@ Send thy blessing upon these thy servants, this man and this woman, whom we bles
 that, as Isaac and Rebecca lived faithfully together, so these persons may surely perform and keep the vow and covenant betwixt them made,
 (whereof these rings given and received are a token and pledge,) and may ever remain in perfect love and peace together, and live according to thy laws;
 through Jesus Christ our Lord.\
-*Amen.*
+**Amen.**
 
-_Then shall the Priest join their right hands together, and say,_
+_\textcolor{red}{Then shall the Priest join their right hands together, and say,}_
 
 Those whom God hath joined together let no man put asunder.
 
-_Then shall the Minister speak unto the people._
+_\textcolor{red}{Then shall the Minister speak unto the people.}_
 
 Forasmuch as Oliver and Caitlin have consented together in holy wedlock,
 and have witnessed the same before God and this company,
@@ -96,22 +100,22 @@ I pronounce that they be man and wife together,
 In the name of the Father, and of the Son, and of the Holy Ghost.\
 Amen
 
-_And the Minister shall add this Blessing_
+_\textcolor{red}{And the Minister shall add this Blessing}_
 
 God the Father, God the Son, God the Holy Ghost, bless, preserve, and keep you;
 the Lord mercifully with his favour look upon you; and so fill you with all spiritual benediction and grace,
 that ye may so live together in this life, that in the world to come ye may have life everlasting.\
-*Amen.*
+**Amen.**
 
 ## Signing of the Marriage Certificate
 
-_The marriage certificates are then signed._
+_\textcolor{red}{The marriage certificates are then signed.}_
 
-_While the marriage certificates are signed, the choir will sing the following:_
+_\textcolor{red}{While the marriage certificates are signed, the choir will sing the following:}_
 
 Thomas Tallis (1505 - 1585), If Ye Love Me
 
-_The certificates signed, and the man and the woman kneeling before the Lord's Table, the Priest standing at the Table, and turning his face towards them, shall say,_
+_\textcolor{red}{The certificates signed, and the man and the woman kneeling before the Lord's Table, the Priest standing at the Table, and turning his face towards them, shall say,}_
 
 ## Couples Prayers (Sarum)
 
@@ -188,19 +192,19 @@ With Christ's own Bride they rise.
 
 ## Collect for Purity
 
-Let us pray. _(Please kneel)_
+Let us pray. _\textcolor{red}{(Please kneel)}_
 
-*Almighty God, unto whom all hearts be open, all desires known, and from whom no secrets are hid: Cleanse the thoughts of our hearts by the inspiration of thy Holy Spirit, that we may perfectly love thee, and worthily magnify thy holy name; through Christ our Lord.\
-Amen.*
+**Almighty God, unto whom all hearts be open, all desires known, and from whom no secrets are hid: Cleanse the thoughts of our hearts by the inspiration of thy Holy Spirit, that we may perfectly love thee, and worthily magnify thy holy name; through Christ our Lord.\
+Amen.**
 
 ## Introit
 
 The God of Israel make you one, / and may he be with you even as he had mercy of two that were the only begotten of their fathers:\
-*grant them mercy, O Lord, / and finish their life in health with joy.*\
+**grant them mercy, O Lord, / and finish their life in health with joy.**\
 Blessed are all they that fear the Lord:\
-*and walk in his ways.*\
+**and walk in his ways.**\
 Glory be to the Father, and to the Son: and to the Holy Ghost;\
-*As it was in the beginning, is now, and ever shall be: world without end. Amen.*
+**As it was in the beginning, is now, and ever shall be: world without end. Amen.**
 
 ## The Kyries
 
@@ -216,20 +220,20 @@ O God, who by thy mighty power hast made all things of nothing;
 who also (after other things set in order) didst appoint that out of man (created after thine own image and similitude) woman should take her beginning;
 and, knitting them together, didst teach that it should never be lawful to put asunder those whom thou by Matrimony hadst made one;
 O God, who hast consecrated the state of Matrimony to such an excellent mystery, that in it is signified and represented the spiritual marriage and unity betwixt Christ and his Church:
-Look mercifully upon these thy servants, that both this man may love his wife, according to thy Word(as Christ did love his spouse the church, who gave himself for it, loving and cherishing it even as his own flesh),
+Look mercifully upon these thy servants, that both this man may love his wife, according to thy Word (as Christ did love his spouse the church, who gave himself for it, loving and cherishing it even as his own flesh),
 and also that this woman may be loving and amiable, faithful and obedient to her husband, and in all quietness, sobriety, and peace be a follower of holy and godly matrons.
 O Lord, bless them both, and grant them to inherit thine everlasting kingdom; through Jesus Christ our Lord.\
-*Amen*
+**Amen**
 
 ## The First Reading
 
 ### Option 1 - Genesis 2:18-25
 
-And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him.
-And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof.
+And the Lord God said, It is not good that the man should be alone; I will make him an help meet for him.
+And out of the ground the Lord God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof.
 And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.
-And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;
-And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man.
+And the Lord God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;
+And the rib, which the Lord God had taken from man, made he a woman, and brought her unto the man.
 And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.
 Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.
 And they were both naked, the man and his wife, and were not ashamed.
@@ -254,9 +258,9 @@ The mandrakes give a smell, and at our gates are all manner of pleasant fruits, 
 ## Gradual
 
 Blessed are all they that fear the Lord, and walk in this ways:\
-*for thou shalt eat the labours of thy hands; / O well is thee and happy shalt thou be.*\
+**for thou shalt eat the labours of thy hands; / O well is thee and happy shalt thou be.**\
 Thy wife shall be as the fruitful vine, upon the walls of thine house:\
-*thy children like the olive branches, round about thy table.*
+**thy children like the olive branches, round about thy table.**
 
 ## The Epistle - Ephesians 5:20-33
 
@@ -309,9 +313,9 @@ So bless them evermore
 
 ## Alleluia
 
-Alleluia. *Alleluia.*\
+Alleluia. **Alleluia.**\
 The Lord send you help from the sanctuary:\
-*and strengthen you out of Sion. Alleluia.*
+**and strengthen you out of Sion. Alleluia.**
 
 ## The Gospel - Mark 10:1-16
 
@@ -373,7 +377,7 @@ Amen.
 ## Offertory Sentence
 
 Above all things put on love, which binds everything together in perfect harmony:\
-*and let the peace of Christ rule in your hearts, and be ye thankful.*
+**and let the peace of Christ rule in your hearts, and be ye thankful.**
 
 ## Offertory Hymn NEH 319
 
@@ -398,7 +402,7 @@ The trusted friend, the constant guide.
 
 Almighty and merciful God, we beseech thee to hear us: that whatsoever is now done by our office and ministry, may be fulfilled with the abundance of thy benediction.
 Through Jesus Christ our Lord.\
-*Amen.*
+**Amen.**
 
 ### BCP (Trinity)
 
@@ -408,7 +412,7 @@ and in the power of the Divine Majesty to worship the Unity:
 We beseech thee, that thou wouldest keep us steadfast in this faith,
 and evermore defend us from all adversities,
 who livest and reignest, one God, world without end.\
-*Amen.*
+**Amen.**
 
 ### Sarum (Trinity)
 
@@ -418,7 +422,7 @@ the glory of the eternal Trinity, and in the power of the Divine
 Majesty to worship the Unity; we beseech Thee, that Thou
 wouldest keep us steadfast in this faith, and evermore defend us
 from all adversities. Who livest and reignest, one God, world without end.\
-*Amen.*
+**Amen.**
 
 ## Invitation to Confession
 
@@ -430,7 +434,7 @@ humble confession to Almighty God, meekly kneeling upon your knees.
 
 ## The General Confession
 
-*Almighty God,\
+**Almighty God,\
 Father of our Lord Jesus Christ,\
 Maker of all things,\
 Judge of all men:\
@@ -452,7 +456,7 @@ Serve and please Thee\
 In newness of life,\
 To the honour and glory of Thy Name;\
 Through Jesus Christ our Lord.\
-Amen*
+Amen**
 
 ## The Absolution
 
@@ -460,13 +464,13 @@ Almighty God, our heavenly Father, who of his great mercy hath promised
 forgiveness of sins to all them that with hearty repentance and true faith turn
 unto him: Have mercy upon you; + pardon and deliver you from all your sins;
 confirm and strengthen you in all goodness; and bring you to everlasting life;
-through Jesus Christ our Lord. *Amen.*
+through Jesus Christ our Lord. **Amen.**
 
 ## The Prayer of Humble Access
 
 Let us Pray
 
-*We do not presume to come to this thy Table,\
+**We do not presume to come to this thy Table,\
 O merciful Lord,\
 trusting in our own righteousness,\
 but in thy manifold and great mercies.\
@@ -478,18 +482,18 @@ so to eat the Flesh of thy dear Son Jesus Christ,\
 and to drink his Blood,\
 That our sinful bodies may be made clean by his Body,\
 and our souls washed through his most precious Blood,\
-and that we may evermore dwell in him, and he in us. Amen*
+and that we may evermore dwell in him, and he in us. Amen**
 
 ## The Preface
 
 The Lord be with you;\
-*And with thy spirit.*
+**And with thy spirit.**
 
 Lift up your hearts;\
-*We lift them up unto the Lord.*
+**We lift them up unto the Lord.**
 
 Let us give thanks unto our Lord God;\
-*It is meet and right so to do*
+**It is meet and right so to do**
 
 It is very meet, right, and our bounden duty, that we should at all times, and in
 all places, give thanks unto thee, O Lord, Holy Father, Almighty, Everlasting
@@ -509,7 +513,7 @@ TODO
 
 ## The Lord's Prayer
 
-*Our Father,\
+**Our Father,\
 Which art in heaven,\
 Hallowed be Thy Name,\
 Thy kingdom come;\
@@ -522,7 +526,7 @@ And lead us not into temptation;\
 But deliver us from evil:\
 For thine is the kingdom, the power and the glory.\
 For ever and ever. \
-Amen.*
+Amen.**
 
 ## Prayers Over the Couple
 
@@ -531,31 +535,31 @@ _The Bride and Groom shall kneel before the Altar._
 ### Option 1 (BCP)
 
 O Lord, save thy servant, and thy handmaid;\
-*Who put their trust in thee.*\
+**Who put their trust in thee.**\
 O Lord, send them help from thy holy place;\
-*And evermore defend them.*\
+**And evermore defend them.**\
 Be unto them, O Lord, a tower of strength;\
-*From the face of their enemy.*\
+**From the face of their enemy.**\
 O Lord, hear our prayer;\
-*And let our cry come unto thee.*
+**And let our cry come unto thee.**
 
-O God of Abraham, God of Isaac, God of Jacob, bless these thy servants, and sow the seed of eternal life in their hearts; that whatsoever in thy holy Word they shall profitably learn, they may in deed fulfil the same. Look, O Lord, mercifully upon them from heaven, and bless them. And as thou didst send thy blessing upon Abraham and Sarah, to their great comfort, so vouchsafe to send thy blessing upon these thy servants; that they obeying thy will, and alway being in safety under thy protection, may abide in thy love unto their lives' end; through Jesus Christ our Lord. *Amen.*
+O God of Abraham, God of Isaac, God of Jacob, bless these thy servants, and sow the seed of eternal life in their hearts; that whatsoever in thy holy Word they shall profitably learn, they may in deed fulfil the same. Look, O Lord, mercifully upon them from heaven, and bless them. And as thou didst send thy blessing upon Abraham and Sarah, to their great comfort, so vouchsafe to send thy blessing upon these thy servants; that they obeying thy will, and alway being in safety under thy protection, may abide in thy love unto their lives' end; through Jesus Christ our Lord. **Amen.**
 
-O merciful Lord, and heavenly Father, by whose gracious gift mankind is increased: We beseech thee, assist with thy blessing these two persons, that they may both be fruitful in procreation of children, and also live together so long in godly love and honesty, that they may see their children christianly and virtuously brought up, to thy praise and honour; through Jesus Christ our Lord. *Amen.*
+O merciful Lord, and heavenly Father, by whose gracious gift mankind is increased: We beseech thee, assist with thy blessing these two persons, that they may both be fruitful in procreation of children, and also live together so long in godly love and honesty, that they may see their children christianly and virtuously brought up, to thy praise and honour; through Jesus Christ our Lord. **Amen.**
 
-O God, who by thy mighty power hast made all things of nothing; who also (after other things set in order) didst appoint, that out of man (created after thine own image and similitude) woman should take her beginning; and, knitting them together, didst teach that it should never be lawful to put asunder those whom thou by Matrimony hadst made one: O God, who hast consecrated the state of Matrimony to such an excellent mystery, that in it is signified and represented the spiritual marriage and unity betwixt Christ and his Church: Look mercifully upon these thy servants, that both this man may love his wife, according to thy Word, (as Christ did love his spouse the Church, who gave himself for it, loving and cherishing it even as his own flesh,) and also that this woman may be loving and amiable, faithful and obedient to her husband; and in all quietness, sobriety, and peace, be a follower of holy and godly matrons. O Lord, bless them both, and grant them to inherit thy everlasting kingdom; through Jesus Christ our Lord. *Amen.*
+O God, who by thy mighty power hast made all things of nothing; who also (after other things set in order) didst appoint, that out of man (created after thine own image and similitude) woman should take her beginning; and, knitting them together, didst teach that it should never be lawful to put asunder those whom thou by Matrimony hadst made one: O God, who hast consecrated the state of Matrimony to such an excellent mystery, that in it is signified and represented the spiritual marriage and unity betwixt Christ and his Church: Look mercifully upon these thy servants, that both this man may love his wife, according to thy Word, (as Christ did love his spouse the Church, who gave himself for it, loving and cherishing it even as his own flesh,) and also that this woman may be loving and amiable, faithful and obedient to her husband; and in all quietness, sobriety, and peace, be a follower of holy and godly matrons. O Lord, bless them both, and grant them to inherit thy everlasting kingdom; through Jesus Christ our Lord. **Amen.**
 
 _Then shall the Priest say,_
 
-Almighty God, who at the beginning did create our first parents, Adam and Eve, and did sanctify and join them together in marriage; Pour upon you the riches of his grace, sanctify and bless you, that ye may please him both in body and soul, and live together in holy love unto your lives' end. *Amen.*
+Almighty God, who at the beginning did create our first parents, Adam and Eve, and did sanctify and join them together in marriage; Pour upon you the riches of his grace, sanctify and bless you, that ye may please him both in body and soul, and live together in holy love unto your lives' end. **Amen.**
 
 ### Option 2 (Sarum)
 
-_A pall or veil being held over them, which four of the clergy in surplices hold at the four corners._
-_Then before The Peace of the Lord, after making the Eucharistic fraction in the usual manner, and having left the Host on the paten in three pieces, let the Priest turn to them and say these prayers reading, as they kneel under the pall_
+_\textcolor{red}{A pall or veil being held over them, which four of the clergy in surplices hold at the four corners.}_
+_\textcolor{red}{Then before The Peace of the Lord, after making the Eucharistic fraction in the usual manner, and having left the Host on the paten in three pieces, let the Priest turn to them and say these prayers reading, as they kneel under the pall}_
 
 The Lord be with you, \
-*And with thy spirit.*
+**And with thy spirit.**
 
 Let us pray,
 
@@ -596,9 +600,9 @@ Through.
 ## The Pax
 
 The peace of the Lord be alway with you;\
-*And with thy spirit*
+**And with thy spirit**
 
-_For the Sarum rite, Let the pall now be removed_
+_\textcolor{red}{For the Sarum rite, Let the pall now be removed}_
 
 ## Agnus Dei
 
@@ -611,7 +615,7 @@ Thomas Tallis (1505 - 1585), A New Commandment
 ## Communion Sentence
 
 Put thou thy trust in the Lord, and be doing good; dwell in the land, and verily thou shalt be fed:\
-*delight thou in the Lord; and he shall give thee thy heart’s desire.*
+**delight thou in the Lord; and he shall give thee thy heart’s desire.**
 
 ## The Post Communion Prayer
 
@@ -619,20 +623,20 @@ We beseech Thee, O Almighty God, further
 the ordinance of Thy Providence with compassion and love, and
 keep in peace unto old age those whom Thou joinest together in lawful union;
 Through Jesus Christ our Lord.\
-*Amen*
+**Amen**
 
 ## The Dismissal and Solemn Blessing
 
 The Lord be with you; \
-*And with thy spirit.*
+**And with thy spirit.**
 
 Depart in Peace; \
-*Thanks be to God.*
+**Thanks be to God.**
 
 The peace of God, which passeth all understanding, keep your hearts and minds
 in the knowledge and love of God, and of his Son Jesus Christ our Lord: and the
 blessing of God Almighty, + the Father, the Son, and the Holy Ghost, be amongst
-you and remain with you always. *Amen*
+you and remain with you always. **Amen**
 
 ## Post Communion Hymn - EH 345
 
@@ -671,12 +675,3 @@ But nought can break the marriage\
 Of hearts in Thee made one,\
 And love Thy Spirit hallows\
 Is endless love begun.
-
-# Tables
-
-| Place          | Book | No. | First Line                        |
-|----------------|------|-----|-----------------------------------|
-| Introit        | EH   | 348 | The voice that breathed o'er Eden |
-| Gradual        | A&M  | 351 | How welcome was the call          |
-| Offertory      | NEH  | 319 | O God, whose loving hand has led  |
-| Post Communion | EH   | 345 | O Father All Creating             |
