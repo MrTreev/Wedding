@@ -117,36 +117,6 @@ Thomas Tallis (1505 - 1585), If Ye Love Me
 
 _\textcolor{red}{The certificates signed, and the man and the woman kneeling before the Lord's Table, the Priest standing at the Table, and turning his face towards them, shall say,}_
 
-## Couples Prayers (Sarum)
-
-Let us pray.
-
-The Lord bless you out of Sion, that ye may behold Jerusalem in prosperity all the days of your life, and see your children's children and peace upon Israel.
-Through.
-
-Let us pray.
-
-O God of Abraham, God of Isaac, God of Jacob, bless these young persons, and sow the seed of eternal life in their hearts; that whatsoever they shall profitably learn, they may indeed fulfil the same. Through Jesus Christ Thy Son, restorer of man.
-Who.
-
-Let us pray.
-
-Look down from Heaven, O Lord, and bless this congregation; and as Thou sentest Thy holy Angel Raphael to Tobias, and to Sarah, the daughter of Raguel, so vouchsafe, O Lord, to send Thy blessing upon these young persons, that they, obeying Thy will and always being in safety under Thy protection, may live, increase, and grow old in Thy love; and may be worthy, and peacemakers, and that the length of their days may be multiplied.
-Through.
-
-Let us pray.
-
-Favourably regard, O Lord, this Thy servant and this Thy handmaid, that in Thy Name they may receive a heavenly benediction, see the children of their sons and daughters to the third and fourth generations in safety, ever remain steadfast in Thy will, and at length attain unto the Kingdom of Heaven.
-Through.
-
-Let us pray.
-
-The Almighty and merciful God, Who by His own power did create our first parents Adam and Eve, and by His own consecration did knit them together; Himself sanctify and bless your souls and bodies, and join you together in the union and love of true affection.
-Through.
-
-God Almighty bless you with all heavenly benediction, and make you worthy in His sight, pour upon you the riches of His grace, and instruct you in the Word of Truth, that ye may be enabled to please Him alike in body and soul.
-Through.
-
 ## Introit Hymn - EH 348
 
 The voice that breathed o'er Eden, \
@@ -225,9 +195,7 @@ and also that this woman may be loving and amiable, faithful and obedient to her
 O Lord, bless them both, and grant them to inherit thine everlasting kingdom; through Jesus Christ our Lord.\
 **Amen**
 
-## The First Reading
-
-### Option 1 - Genesis 2:18-25
+## The First Reading - Genesis 2:18-24
 
 And the Lord God said, It is not good that the man should be alone; I will make him an help meet for him.
 And out of the ground the Lord God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof.
@@ -236,23 +204,6 @@ And the Lord God caused a deep sleep to fall upon Adam, and he slept: and he too
 And the rib, which the Lord God had taken from man, made he a woman, and brought her unto the man.
 And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.
 Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.
-And they were both naked, the man and his wife, and were not ashamed.
-
-### Option 2 - Song of Solomon 7
-
-How beautiful are thy feet with shoes, O prince's daughter! the joints of thy thighs are like jewels, the work of the hands of a cunning workman.
-Thy navel is like a round goblet, which wanteth not liquor: thy belly is like an heap of wheat set about with lilies.
-Thy two breasts are like two young roes that are twins.
-Thy neck is as a tower of ivory; thine eyes like the fish-pools in Heshbon, by the gate of Bathrabbim: thy nose is as the tower of Lebanon which looketh toward Damascus.
-Thine head upon thee is like Carmel, and the hair of thine head like purple; the king is held in the galleries.
-How fair and how pleasant art thou, O love, for delights!
-This thy stature is like to a palm tree, and thy breasts to clusters of grapes.
-I said, I will go up to the palm tree, I will take hold of the boughs thereof: now also thy breasts shall be as clusters of the vine, and the smell of thy nose like apples;
-And the roof of thy mouth like the best wine for my beloved, that goeth down sweetly, causing the lips of those that are asleep to speak.
-I am my beloved's, and his desire is toward me.
-Come, my beloved, let us go forth into the field; let us lodge in the villages.
-Let us get up early to the vineyards; let us see if the vine flourish, whether the tender grape appear, and the pomegranates bud forth: there will I give thee my loves.
-The mandrakes give a smell, and at our gates are all manner of pleasant fruits, new and old, which I have laid up for thee, O my beloved.
 
 
 ## Gradual
@@ -528,34 +479,49 @@ For thine is the kingdom, the power and the glory.\
 For ever and ever. \
 Amen.**
 
-## Prayers Over the Couple
+## Couples Prayers
 
-_The Bride and Groom shall kneel before the Altar._
+Save Thy servant and Thy handmaid,\
+*My God, who put their trust in Thee.*\
+O Lord, send them help from Thy holy place,\
+*And defend them out of Sion.*\
+Be unto them, O Lord, a tower of strength,\
+*From the face of their enemy.*\
+Lord, hear my prayer,\
+*And let my cry come unto Thee.*\
+The Lord be with you,\
+*And with thy spirit.*
 
-### Option 1 (BCP)
+Let us pray.
 
-O Lord, save thy servant, and thy handmaid;\
-**Who put their trust in thee.**\
-O Lord, send them help from thy holy place;\
-**And evermore defend them.**\
-Be unto them, O Lord, a tower of strength;\
-**From the face of their enemy.**\
-O Lord, hear our prayer;\
-**And let our cry come unto thee.**
+The Lord bless you out of Sion, that ye may behold Jerusalem in prosperity all the days of your life, and see your children's children and peace upon Israel.
+Through.
 
-O God of Abraham, God of Isaac, God of Jacob, bless these thy servants, and sow the seed of eternal life in their hearts; that whatsoever in thy holy Word they shall profitably learn, they may in deed fulfil the same. Look, O Lord, mercifully upon them from heaven, and bless them. And as thou didst send thy blessing upon Abraham and Sarah, to their great comfort, so vouchsafe to send thy blessing upon these thy servants; that they obeying thy will, and alway being in safety under thy protection, may abide in thy love unto their lives' end; through Jesus Christ our Lord. **Amen.**
+Let us pray.
 
-O merciful Lord, and heavenly Father, by whose gracious gift mankind is increased: We beseech thee, assist with thy blessing these two persons, that they may both be fruitful in procreation of children, and also live together so long in godly love and honesty, that they may see their children christianly and virtuously brought up, to thy praise and honour; through Jesus Christ our Lord. **Amen.**
+O God of Abraham, God of Isaac, God of Jacob, bless these young persons, and sow the seed of eternal life in their hearts; that whatsoever they shall profitably learn, they may indeed fulfil the same. Through Jesus Christ Thy Son, restorer of man.
+Who.
 
-O God, who by thy mighty power hast made all things of nothing; who also (after other things set in order) didst appoint, that out of man (created after thine own image and similitude) woman should take her beginning; and, knitting them together, didst teach that it should never be lawful to put asunder those whom thou by Matrimony hadst made one: O God, who hast consecrated the state of Matrimony to such an excellent mystery, that in it is signified and represented the spiritual marriage and unity betwixt Christ and his Church: Look mercifully upon these thy servants, that both this man may love his wife, according to thy Word, (as Christ did love his spouse the Church, who gave himself for it, loving and cherishing it even as his own flesh,) and also that this woman may be loving and amiable, faithful and obedient to her husband; and in all quietness, sobriety, and peace, be a follower of holy and godly matrons. O Lord, bless them both, and grant them to inherit thy everlasting kingdom; through Jesus Christ our Lord. **Amen.**
+Let us pray.
 
-_Then shall the Priest say,_
+Look down from Heaven, O Lord, and bless this congregation; and as Thou sentest Thy holy Angel Raphael to Tobias, and to Sarah, the daughter of Raguel, so vouchsafe, O Lord, to send Thy blessing upon these young persons, that they, obeying Thy will and always being in safety under Thy protection, may live, increase, and grow old in Thy love; and may be worthy, and peacemakers, and that the length of their days may be multiplied.
+Through.
 
-Almighty God, who at the beginning did create our first parents, Adam and Eve, and did sanctify and join them together in marriage; Pour upon you the riches of his grace, sanctify and bless you, that ye may please him both in body and soul, and live together in holy love unto your lives' end. **Amen.**
+Let us pray.
 
-### Option 2 (Sarum)
+Favourably regard, O Lord, this Thy servant and this Thy handmaid, that in Thy Name they may receive a heavenly benediction, see the children of their sons and daughters to the third and fourth generations in safety, ever remain steadfast in Thy will, and at length attain unto the Kingdom of Heaven.
+Through.
 
-_\textcolor{red}{A pall or veil being held over them, which four of the clergy in surplices hold at the four corners.}_
+Let us pray.
+
+The Almighty and merciful God, Who by His own power did create our first parents Adam and Eve, and by His own consecration did knit them together; Himself sanctify and bless your souls and bodies, and join you together in the union and love of true affection.
+Through.
+
+God Almighty bless you with all heavenly benediction, and make you worthy in His sight, pour upon you the riches of His grace, and instruct you in the Word of Truth, that ye may be enabled to please Him alike in body and soul.
+Through.
+
+_\textcolor{red}{The Bride and Groom shall kneel before the Altar.}_\
+_\textcolor{red}{A pall or veil being held over them, which four of the clergy in surplices hold at the four corners.}_\
 _\textcolor{red}{Then before The Peace of the Lord, after making the Eucharistic fraction in the usual manner, and having left the Host on the paten in three pieces, let the Priest turn to them and say these prayers reading, as they kneel under the pall}_
 
 The Lord be with you, \
@@ -602,7 +568,7 @@ Through.
 The peace of the Lord be alway with you;\
 **And with thy spirit**
 
-_\textcolor{red}{For the Sarum rite, Let the pall now be removed}_
+_\textcolor{red}{Let the pall now be removed}_
 
 ## Agnus Dei
 
