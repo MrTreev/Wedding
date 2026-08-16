@@ -98,7 +98,7 @@ and thereto have given and pledged their troth either to other,
 and have declared the same by giving and receiving of rings, and by joining of hands;
 I pronounce that they be man and wife together,
 In the name of the Father, and of the Son, and of the Holy Ghost.\
-Amen
+**Amen**
 
 _\textcolor{red}{And the Minister shall add this Blessing}_
 
@@ -118,6 +118,8 @@ Thomas Tallis (1505 - 1585), If Ye Love Me
 _\textcolor{red}{The certificates signed, and the man and the woman kneeling before the Lord's Table, the Priest standing at the Table, and turning his face towards them, shall say,}_
 
 ## Introit Hymn - EH 348
+
+![](OrderOfService/EH-348-The-voice-that-breathed-oer-eden.jpg)
 
 The voice that breathed o'er Eden, \
 That earliest wedding day, \
@@ -186,13 +188,9 @@ Thomas Tallis (1505 - 1585), Missa Sine Nomine
 
 ## The Collect of the Day / Wedding Collect
 
-O God, who by thy mighty power hast made all things of nothing;
-who also (after other things set in order) didst appoint that out of man (created after thine own image and similitude) woman should take her beginning;
-and, knitting them together, didst teach that it should never be lawful to put asunder those whom thou by Matrimony hadst made one;
-O God, who hast consecrated the state of Matrimony to such an excellent mystery, that in it is signified and represented the spiritual marriage and unity betwixt Christ and his Church:
-Look mercifully upon these thy servants, that both this man may love his wife, according to thy Word (as Christ did love his spouse the church, who gave himself for it, loving and cherishing it even as his own flesh),
-and also that this woman may be loving and amiable, faithful and obedient to her husband, and in all quietness, sobriety, and peace be a follower of holy and godly matrons.
-O Lord, bless them both, and grant them to inherit thine everlasting kingdom; through Jesus Christ our Lord.\
+O Eternal God, we humbly beseech the, favourably to behold thy servants Oliver and Caitlin now to be joined in wedlock according to thy holy ordinance:
+and grant that they, seeking first thy kingdom and thy righteousness, may obtain the manifold blessings of thy grace;
+through Jesus Christ thy Son our Lord, who liveth and reigneth with thee, in the unity of the Holy Spirit, ever one God, world without end.\
 **Amen**
 
 ## The First Reading - Genesis 2:18-24
@@ -231,6 +229,8 @@ This is a great mystery: but I speak concerning Christ and the church.
 Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband.
 
 ## Gradual Hymn A&M 351
+
+![](OrderOfService/AM-351-How-welcome-was-the-call.jpg)
 
 How welcome was the call, \
 And sweet the festal lay, \
@@ -332,6 +332,8 @@ Above all things put on love, which binds everything together in perfect harmony
 
 ## Offertory Hymn NEH 319
 
+![](OrderOfService/NEH-319-O-God-whose-loving-hand-has-led.jpg)
+
 O God, whose loving hand has led \
 Thy children to this joyful day, \
 We pray that Thou wilt bless them now \
@@ -347,33 +349,12 @@ Where peace and honour shall abide, \
 Where Christ shall be the gracious head, \
 The trusted friend, the constant guide.
 
-## Offertory Prayer (As on Trinity)
+## Offertory Prayer
 
-### Anglican Missal
-
-Almighty and merciful God, we beseech thee to hear us: that whatsoever is now done by our office and ministry, may be fulfilled with the abundance of thy benediction.
-Through Jesus Christ our Lord.\
-**Amen.**
-
-### BCP (Trinity)
-
-Almighty and everlasting God, who hast given unto us thy servants grace,
-by the confession of a true faith to acknowledge the glory of the eternal Trinity,
-and in the power of the Divine Majesty to worship the Unity:
-We beseech thee, that thou wouldest keep us steadfast in this faith,
-and evermore defend us from all adversities,
-who livest and reignest, one God, world without end.\
-**Amen.**
-
-### Sarum (Trinity)
-
-Almighty and everlasting God, Who hast given unto us Thy
-servants grace, by the confession of a true faith, to acknowledge
-the glory of the eternal Trinity, and in the power of the Divine
-Majesty to worship the Unity; we beseech Thee, that Thou
-wouldest keep us steadfast in this faith, and evermore defend us
-from all adversities. Who livest and reignest, one God, world without end.\
-**Amen.**
+O Lord, we beseech thee, to accept this gift which, as ordained by thy holy lay of matrimony,
+we present unto thee: and grant that this work begun by the bounty of thy goodness,
+may in all things be disposed according to thy will; through Jesus Christ our Lord.\
+**Amen**
 
 ## Invitation to Confession
 
@@ -447,12 +428,12 @@ Let us give thanks unto our Lord God;\
 **It is meet and right so to do**
 
 It is very meet, right, and our bounden duty, that we should at all times, and in
-all places, give thanks unto thee, O Lord, Holy Father, Almighty, Everlasting
-God: Who art one God, one Lord; no one only Person, but three Persons in one
-Substance. For that which we believe of the glory of the Father, the same we
-believe of the Son, and of the Holy Ghost, without any difference or inequality.
+all places, give thanks unto thee, O Lord, Holy Father, Almighty, Everlasting God;
+because in the love of husband and wife, thou hast given us an image of the union
+of thy Son Jesus Christ with the heavenly Jerusalem, adorned as a bride for her bridegroom,
+who loveth her and gave himself for her, that he might renew the whole creation.
 Therefore with Angels and Archangels, and with all the company of heaven,
-we laud and magnify thy glorious name, evermore praising thee, and saying,
+we laud and magnify thy glorious name, evermore praising thee, and singing,
 
 ## Sanctus and Benedictus
 
@@ -495,30 +476,36 @@ The Lord be with you,\
 Let us pray.
 
 The Lord bless you out of Sion, that ye may behold Jerusalem in prosperity all the days of your life, and see your children's children and peace upon Israel.
-Through.
+Through Christ our Lord.
+**Amen**
 
 Let us pray.
 
 O God of Abraham, God of Isaac, God of Jacob, bless these young persons, and sow the seed of eternal life in their hearts; that whatsoever they shall profitably learn, they may indeed fulfil the same. Through Jesus Christ Thy Son, restorer of man.
-Who.
+Who liveth and reigneth with thee in the unity of the Holy Ghost, one God, world without end.
+**Amen**
 
 Let us pray.
 
 Look down from Heaven, O Lord, and bless this congregation; and as Thou sentest Thy holy Angel Raphael to Tobias, and to Sarah, the daughter of Raguel, so vouchsafe, O Lord, to send Thy blessing upon these young persons, that they, obeying Thy will and always being in safety under Thy protection, may live, increase, and grow old in Thy love; and may be worthy, and peacemakers, and that the length of their days may be multiplied.
-Through.
+Through Christ our Lord.
+**Amen**
 
 Let us pray.
 
 Favourably regard, O Lord, this Thy servant and this Thy handmaid, that in Thy Name they may receive a heavenly benediction, see the children of their sons and daughters to the third and fourth generations in safety, ever remain steadfast in Thy will, and at length attain unto the Kingdom of Heaven.
-Through.
+Through Christ our Lord.
+**Amen**
 
 Let us pray.
 
 The Almighty and merciful God, Who by His own power did create our first parents Adam and Eve, and by His own consecration did knit them together; Himself sanctify and bless your souls and bodies, and join you together in the union and love of true affection.
-Through.
+Through Christ our Lord.
+**Amen**
 
 God Almighty bless you with all heavenly benediction, and make you worthy in His sight, pour upon you the riches of His grace, and instruct you in the Word of Truth, that ye may be enabled to please Him alike in body and soul.
-Through.
+Through Christ our Lord.
+**Amen**
 
 _\textcolor{red}{The Bride and Groom shall kneel before the Altar.}_\
 _\textcolor{red}{A pall or veil being held over them, which four of the clergy in surplices hold at the four corners.}_\
@@ -530,7 +517,8 @@ The Lord be with you, \
 Let us pray,
 
 Be favourable, O Lord, unto our supplications, and of Thy goodness assist the ordinances whereby Thou hast appointed that mankind should be increased; that they who are joined together by Thy allowance may be preserved by Thy succour.
-Through.
+Through Christ our Lord.
+**Amen**
 
 Let us pray.
 
@@ -560,8 +548,8 @@ Let her be grave and bashful, severe and modest, well-instructed
 in heavenly doctrine. Let her be fruitful in child-bearing, well
 reported of, and innocent, and attain to a desired old age, seeing
 her children’s children unto the third and fourth generation, and
-finally attaining unto the rest of the blessed and the Kingdom of Heaven.\
-Through.
+finally attaining unto the rest of the blessed and the Kingdom of Heaven.
+Through Jesus Christ our Lord. **Amen**
 
 ## The Pax
 
@@ -605,6 +593,8 @@ blessing of God Almighty, + the Father, the Son, and the Holy Ghost, be amongst
 you and remain with you always. **Amen**
 
 ## Post Communion Hymn - EH 345
+
+![](OrderOfService/EH-345-O-Father-All-Creating.jpg)
 
 O Father all creating,\
 Whose wisdom, love, and power\
