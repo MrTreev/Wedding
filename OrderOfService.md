@@ -2,6 +2,8 @@
 geometry: a4paper,margin=2cm
 ---
 
+_Music: Improvisations and Wedding March_
+
 _\textcolor{red}{Please stand for the entrance of the Sacred Ministers.}_
 
 _\textcolor{red}{The Sacred Ministers stand at the Chancel step. The Bride and Groom and their attendants likewise move to the Chancel step.}_
@@ -117,50 +119,24 @@ Thomas Tallis (1505 - 1585), If Ye Love Me
 
 _\textcolor{red}{The certificates signed, and the man and the woman kneeling before the Lord's Table, the Priest standing at the Table, and turning his face towards them, shall say,}_
 
-## Introit Hymn - EH 348
+## Introit Hymn - NEH 319
 
-![](OrderOfService/EH-348-The-voice-that-breathed-oer-eden.jpg)
+![](OrderOfService/NEH-319-O-God-whose-loving-hand-has-led.jpg)
 
-The voice that breathed o'er Eden, \
-That earliest wedding day, \
-The primal marriage blessing, \
-It hath not pass'd away:
+O God, whose loving hand has led \
+Thy children to this joyful day, \
+We pray that Thou wilt bless them now \
+As, one in Thee, they face life's way.
 
-Still in the pure espousal \
-Of Christian man and married \
-The Holy Three are with us, \
-The threefold grace is said,
+Grant them the will to follow Christ \
+Who graced the feast in Galilee, \
+And through his perfect life of love \
+Fulfilment of their love to see.
 
-For dower of bless\`ed children, \
-For love and faith's sweet sake, \
-For high mysterious union \
-Which naught on earth may break.
-
-Be present, awful Father, \
-To give away this bride, \
-As Eve Thou gav'st to Adam \
-Out of his own pierced side;
-
-Be present, Son of Mary, \
-To join their loving hands, \
-As thou didst bind two natures \
-In thine eternal bands;
-
-Be present holiest Spirit, \
-To bless them as they kneel, \
-As thou for Christ the Bridegroom, \
-The heavenly Spouse dost seal.
-
-O spread thy pure wing o'er them, \
-Let no ill power find place, \
-When onward to thine altar \
-The hallow'd path they trace,
-
-To cast their crowns before thee \
-In perfect sacrifice, \
-Till to the home of gladness \
-With Christ's own Bride they rise.
-
+Give them the power to make a home \
+Where peace and honour shall abide, \
+Where Christ shall be the gracious head, \
+The trusted friend, the constant guide.
 
 ## Collect for Purity
 
@@ -169,7 +145,7 @@ Let us pray. _\textcolor{red}{(Please kneel)}_
 **Almighty God, unto whom all hearts be open, all desires known, and from whom no secrets are hid: Cleanse the thoughts of our hearts by the inspiration of thy Holy Spirit, that we may perfectly love thee, and worthily magnify thy holy name; through Christ our Lord.\
 Amen.**
 
-## Introit
+## Introit - Tobit 7:14; 8:19; Psalm 128:1
 
 The God of Israel make you one, / and may he be with you even as he had mercy of two that were the only begotten of their fathers:\
 **grant them mercy, O Lord, / and finish their life in health with joy.**\
@@ -186,7 +162,7 @@ John Taverner (1490 - 1545), Kyrie Le Roy
 
 Thomas Tallis (1505 - 1585), Missa Sine Nomine
 
-## The Collect of the Day / Wedding Collect
+## Wedding Collect
 
 O Eternal God, we humbly beseech the, favourably to behold thy servants Oliver and Caitlin now to be joined in wedlock according to thy holy ordinance:
 and grant that they, seeking first thy kingdom and thy righteousness, may obtain the manifold blessings of thy grace;
@@ -204,7 +180,7 @@ And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be
 Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.
 
 
-## Gradual
+## Gradual - Psalm 128:1-4
 
 Blessed are all they that fear the Lord, and walk in this ways:\
 **for thou shalt eat the labours of thy hands; / O well is thee and happy shalt thou be.**\
@@ -262,7 +238,7 @@ This mercy we implore; \
 As Thou dost knit them, Lord, in one, \
 So bless them evermore
 
-## Alleluia
+## Alleluia Psalm 20:2
 
 Alleluia. **Alleluia.**\
 The Lord send you help from the sanctuary:\
@@ -287,67 +263,56 @@ But when Jesus saw it, he was much displeased, and said unto them, Suffer the li
 Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein.
 And he took them up in his arms, put his hands upon them, and blessed them.
 
-## The Nicene Creed
-
-I believe in one God the Father Almighty, Maker of heaven and earth, And of all things visible and invisible:
-
-And in one Lord Jesus Christ, the only begotten Son of God,\
-Begotten of his Father before all worlds,\
-God of God,\
-Light of Light,\
-Very God of very God,\
-Begotten, not made,\
-Being of one substance with the Father,\
-By whom all things were made:\
-Who for us men, and for our salvation came down from heaven,
-
-And was incarnate by the Holy Ghost of the Virgin Mary, And was made man,
-
-And was crucified also for us under Pontius Pilate.\
-He suffered and was buried,\
-And the third day he rose again according to the Scriptures,\
-And ascended into heaven,\
-And sitteth on the right hand of the Father.\
-And he shall come again with glory to judge both the quick and the dead:\
-Whose kingdom shall have no end.
-
-And I believe in the Holy Ghost,\
-The Lord and giver of life,\
-Who proceedeth from the Father and the Son,\
-Who with the Father and the Son together is worshipped and glorified,\
-Who spake by the Prophets.
-
-And I believe one Holy Catholick and Apostolick Church.\
-I acknowledge one Baptism for the remission of sins.\
-And I look for the Resurrection of the dead,\
-And the life of the world to come.\
-Amen.
-
 ## Sermon
 
-## Offertory Sentence
+## Offertory Sentence - Colossians 4:14-15
 
 Above all things put on love, which binds everything together in perfect harmony:\
 **and let the peace of Christ rule in your hearts, and be ye thankful.**
 
-## Offertory Hymn NEH 319
+## Offertory Hymn - EH 348
 
-![](OrderOfService/NEH-319-O-God-whose-loving-hand-has-led.jpg)
+![](OrderOfService/EH-348-The-voice-that-breathed-oer-eden.jpg)
 
-O God, whose loving hand has led \
-Thy children to this joyful day, \
-We pray that Thou wilt bless them now \
-As, one in Thee, they face life's way.
+The voice that breathed o'er Eden, \
+That earliest wedding day, \
+The primal marriage blessing, \
+It hath not pass'd away:
 
-Grant them the will to follow Christ \
-Who graced the feast in Galilee, \
-And through his perfect life of love \
-Fulfilment of their love to see.
+Still in the pure espousal \
+Of Christian man and married \
+The Holy Three are with us, \
+The threefold grace is said,
 
-Give them the power to make a home \
-Where peace and honour shall abide, \
-Where Christ shall be the gracious head, \
-The trusted friend, the constant guide.
+For dower of bless\`ed children, \
+For love and faith's sweet sake, \
+For high mysterious union \
+Which naught on earth may break.
+
+Be present, awful Father, \
+To give away this bride, \
+As Eve Thou gav'st to Adam \
+Out of his own pierced side;
+
+Be present, Son of Mary, \
+To join their loving hands, \
+As thou didst bind two natures \
+In thine eternal bands;
+
+Be present holiest Spirit, \
+To bless them as they kneel, \
+As thou for Christ the Bridegroom, \
+The heavenly Spouse dost seal.
+
+O spread thy pure wing o'er them, \
+Let no ill power find place, \
+When onward to thine altar \
+The hallow'd path they trace,
+
+To cast their crowns before thee \
+In perfect sacrifice, \
+Till to the home of gladness \
+With Christ's own Bride they rise.
 
 ## Offertory Prayer
 
@@ -566,7 +531,7 @@ Thomas Tallis (1505 - 1585), Missa Sine Nomine
 
 Thomas Tallis (1505 - 1585), A New Commandment
 
-## Communion Sentence
+## Communion Sentence - Psalm 37:3-4
 
 Put thou thy trust in the Lord, and be doing good; dwell in the land, and verily thou shalt be fed:\
 **delight thou in the Lord; and he shall give thee thy heart’s desire.**
