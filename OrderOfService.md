@@ -2,8 +2,6 @@
 geometry: a4paper,margin=2cm
 ---
 
-_Music: Improvisations and Wedding March_
-
 _\textcolor{red}{Please stand for the entrance of the Sacred Ministers.}_
 
 _\textcolor{red}{The Sacred Ministers stand at the Chancel step. The Bride and Groom and their attendants likewise move to the Chancel step.}_
@@ -73,13 +71,13 @@ And the man holding the ring there and taught by the Priest, shall say,}_
 With this ring I thee wed, with my body I thee worship, and with all my worldly goods I thee endow: In the name of the Father, and of the Son, and of the Holy Ghost. Amen.
 
 _\textcolor{red}{Then the Priest, taking the other ring, shall deliver it unto the woman, to put it upon the fourth finger of the man's left hand.
-And the woman holding the Ring there, and taught by the Priest, shall say,}_
+And the woman holding the ring there, and taught by the Priest, shall say,}_
 
 With this ring I thee wed, with my body I thee worship, and with all my worldly goods I thee endow: In the name of the Father, and of the Son, and of the Holy Ghost. Amen.
 
 _\textcolor{red}{Then the man leaving the ring upon the fourth finger of the woman's left hand, they shall both kneel down; and the Minister shall say,}_
 
-Let us Pray.
+Let us pray.
 
 O Eternal God, Creator and Preserver of all mankind, giver of all spiritual grace, the author of everlasting life:
 Send thy blessing upon these thy servants, this man and this woman, whom we bless in thy name;
@@ -100,7 +98,7 @@ and thereto have given and pledged their troth either to other,
 and have declared the same by giving and receiving of rings, and by joining of hands;
 I pronounce that they be man and wife together,
 In the name of the Father, and of the Son, and of the Holy Ghost.\
-**Amen**
+**Amen.**
 
 _\textcolor{red}{And the Minister shall add this Blessing}_
 
@@ -116,8 +114,6 @@ _\textcolor{red}{The marriage certificates are then signed.}_
 _\textcolor{red}{While the marriage certificates are signed, the choir will sing the following:}_
 
 Thomas Tallis (1505 - 1585), If Ye Love Me
-
-_\textcolor{red}{The certificates signed, and the man and the woman kneeling before the Lord's Table, the Priest standing at the Table, and turning his face towards them, shall say,}_
 
 ## Introit Hymn - NEH 319
 
@@ -164,10 +160,10 @@ Thomas Tallis (1505 - 1585), Missa Sine Nomine
 
 ## Wedding Collect
 
-O Eternal God, we humbly beseech the, favourably to behold thy servants Oliver and Caitlin now to be joined in wedlock according to thy holy ordinance:
+O Eternal God, we humbly beseech thee, favourably to behold thy servants Oliver and Caitlin now to be joined in wedlock according to thy holy ordinance:
 and grant that they, seeking first thy kingdom and thy righteousness, may obtain the manifold blessings of thy grace;
-through Jesus Christ thy Son our Lord, who liveth and reigneth with thee, in the unity of the Holy Spirit, ever one God, world without end.\
-**Amen**
+through Jesus Christ thy Son our Lord, who liveth and reigneth with thee, in the unity of the Holy Ghost, ever one God, world without end.\
+**Amen.**
 
 ## The First Reading - Genesis 2:18-24
 
@@ -182,7 +178,7 @@ Therefore shall a man leave his father and his mother, and shall cleave unto his
 
 ## Gradual - Psalm 128:1-4
 
-Blessed are all they that fear the Lord, and walk in this ways:\
+Blessed are all they that fear the Lord, and walk in his ways:\
 **for thou shalt eat the labours of thy hands; / O well is thee and happy shalt thou be.**\
 Thy wife shall be as the fruitful vine, upon the walls of thine house:\
 **thy children like the olive branches, round about thy table.**
@@ -236,7 +232,7 @@ Forth from Thy piers\'ed Side.
 Before Thine Altar-throne \
 This mercy we implore; \
 As Thou dost knit them, Lord, in one, \
-So bless them evermore
+So bless them evermore.
 
 ## Alleluia Psalm 20:2
 
@@ -265,7 +261,7 @@ And he took them up in his arms, put his hands upon them, and blessed them.
 
 ## Sermon
 
-## Offertory Sentence - Colossians 4:14-15
+## Offertory Sentence - Colossians 3:14-15
 
 Above all things put on love, which binds everything together in perfect harmony:\
 **and let the peace of Christ rule in your hearts, and be ye thankful.**
@@ -280,7 +276,7 @@ The primal marriage blessing, \
 It hath not pass'd away:
 
 Still in the pure espousal \
-Of Christian man and married \
+Of Christian man and maid \
 The Holy Three are with us, \
 The threefold grace is said,
 
@@ -316,10 +312,10 @@ With Christ's own Bride they rise.
 
 ## Offertory Prayer
 
-O Lord, we beseech thee, to accept this gift which, as ordained by thy holy lay of matrimony,
+O Lord, we beseech thee, to accept this gift which, as ordained by thy holy law of matrimony,
 we present unto thee: and grant that this work begun by the bounty of thy goodness,
 may in all things be disposed according to thy will; through Jesus Christ our Lord.\
-**Amen**
+**Amen.**
 
 ## Invitation to Confession
 
@@ -353,7 +349,7 @@ Serve and please Thee\
 In newness of life,\
 To the honour and glory of Thy Name;\
 Through Jesus Christ our Lord.\
-Amen**
+Amen.**
 
 ## The Absolution
 
@@ -365,7 +361,7 @@ through Jesus Christ our Lord. **Amen.**
 
 ## The Prayer of Humble Access
 
-Let us Pray
+Let us pray.
 
 **We do not presume to come to this thy Table,\
 O merciful Lord,\
@@ -379,7 +375,7 @@ so to eat the Flesh of thy dear Son Jesus Christ,\
 and to drink his Blood,\
 That our sinful bodies may be made clean by his Body,\
 and our souls washed through his most precious Blood,\
-and that we may evermore dwell in him, and he in us. Amen**
+and that we may evermore dwell in him, and he in us. Amen.**
 
 ## The Preface
 
@@ -425,7 +421,7 @@ For thine is the kingdom, the power and the glory.\
 For ever and ever. \
 Amen.**
 
-## Couples Prayers
+## Prayers for the Couple
 
 Save Thy servant and Thy handmaid,\
 *My God, who put their trust in Thee.*\
@@ -442,35 +438,35 @@ Let us pray.
 
 The Lord bless you out of Sion, that ye may behold Jerusalem in prosperity all the days of your life, and see your children's children and peace upon Israel.
 Through Christ our Lord.
-**Amen**
+**Amen.**
 
 Let us pray.
 
 O God of Abraham, God of Isaac, God of Jacob, bless these young persons, and sow the seed of eternal life in their hearts; that whatsoever they shall profitably learn, they may indeed fulfil the same. Through Jesus Christ Thy Son, restorer of man.
 Who liveth and reigneth with thee in the unity of the Holy Ghost, one God, world without end.
-**Amen**
+**Amen.**
 
 Let us pray.
 
 Look down from Heaven, O Lord, and bless this congregation; and as Thou sentest Thy holy Angel Raphael to Tobias, and to Sarah, the daughter of Raguel, so vouchsafe, O Lord, to send Thy blessing upon these young persons, that they, obeying Thy will and always being in safety under Thy protection, may live, increase, and grow old in Thy love; and may be worthy, and peacemakers, and that the length of their days may be multiplied.
 Through Christ our Lord.
-**Amen**
+**Amen.**
 
 Let us pray.
 
 Favourably regard, O Lord, this Thy servant and this Thy handmaid, that in Thy Name they may receive a heavenly benediction, see the children of their sons and daughters to the third and fourth generations in safety, ever remain steadfast in Thy will, and at length attain unto the Kingdom of Heaven.
 Through Christ our Lord.
-**Amen**
+**Amen.**
 
 Let us pray.
 
 The Almighty and merciful God, Who by His own power did create our first parents Adam and Eve, and by His own consecration did knit them together; Himself sanctify and bless your souls and bodies, and join you together in the union and love of true affection.
 Through Christ our Lord.
-**Amen**
+**Amen.**
 
 God Almighty bless you with all heavenly benediction, and make you worthy in His sight, pour upon you the riches of His grace, and instruct you in the Word of Truth, that ye may be enabled to please Him alike in body and soul.
 Through Christ our Lord.
-**Amen**
+**Amen.**
 
 _\textcolor{red}{The Bride and Groom shall kneel before the Altar.}_\
 _\textcolor{red}{A pall or veil being held over them, which four of the clergy in surplices hold at the four corners.}_\
@@ -479,11 +475,11 @@ _\textcolor{red}{Then before The Peace of the Lord, after making the Eucharistic
 The Lord be with you, \
 **And with thy spirit.**
 
-Let us pray,
+Let us pray.
 
 Be favourable, O Lord, unto our supplications, and of Thy goodness assist the ordinances whereby Thou hast appointed that mankind should be increased; that they who are joined together by Thy allowance may be preserved by Thy succour.
 Through Christ our Lord.
-**Amen**
+**Amen.**
 
 Let us pray.
 
@@ -514,12 +510,12 @@ in heavenly doctrine. Let her be fruitful in child-bearing, well
 reported of, and innocent, and attain to a desired old age, seeing
 her children’s children unto the third and fourth generation, and
 finally attaining unto the rest of the blessed and the Kingdom of Heaven.
-Through Jesus Christ our Lord. **Amen**
+Through Jesus Christ our Lord. **Amen.**
 
 ## The Pax
 
 The peace of the Lord be alway with you;\
-**And with thy spirit**
+**And with thy spirit.**
 
 _\textcolor{red}{Let the pall now be removed}_
 
@@ -542,7 +538,7 @@ We beseech Thee, O Almighty God, further
 the ordinance of Thy Providence with compassion and love, and
 keep in peace unto old age those whom Thou joinest together in lawful union;
 Through Jesus Christ our Lord.\
-**Amen**
+**Amen.**
 
 ## The Dismissal and Solemn Blessing
 
@@ -555,7 +551,7 @@ Depart in Peace; \
 The peace of God, which passeth all understanding, keep your hearts and minds
 in the knowledge and love of God, and of his Son Jesus Christ our Lord: and the
 blessing of God Almighty, + the Father, the Son, and the Holy Ghost, be amongst
-you and remain with you always. **Amen**
+you and remain with you always. **Amen.**
 
 ## Post Communion Hymn - EH 345
 
