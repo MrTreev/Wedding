@@ -34,8 +34,6 @@ or else put in a caution (to the full value of such charges as the persons to be
 
 ##  Solemnization of Matrimony
 
-_\textcolor{red}{The Sacred Ministers stand at the Chancel step. The Bride and Groom and their attendants likewise move to the Chancel step.}_
-
 _\textcolor{red}{If no impediment be alleged, then shall the Priest say unto the Man,}_
 
 Oliver, wilt thou have this woman to thy wedded wife, to live together after God's ordinance in the holy estate of Matrimony?
@@ -75,7 +73,7 @@ And the woman holding the ring there, and taught by the Priest, shall say,}_
 
 With this ring I thee wed, with my body I thee worship, and with all my worldly goods I thee endow: In the name of the Father, and of the Son, and of the Holy Ghost. Amen.
 
-_\textcolor{red}{Then the man leaving the ring upon the fourth finger of the woman's left hand, they shall both kneel down; and the Minister shall say,}_
+_\textcolor{red}{Then they shall both kneel down; and the Minister shall say,}_
 
 Let us pray.
 
@@ -386,7 +384,7 @@ Lift up your hearts;\
 **We lift them up unto the Lord.**
 
 Let us give thanks unto our Lord God;\
-**It is meet and right so to do**
+**It is meet and right so to do.**
 
 It is very meet, right, and our bounden duty, that we should at all times, and in
 all places, give thanks unto thee, O Lord, Holy Father, Almighty, Everlasting God;
