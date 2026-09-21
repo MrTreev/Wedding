@@ -32,7 +32,7 @@ For be ye well assured, that so many as are coupled together otherwise than God'
 _\textcolor{red}{At which day of Marriage, if any man do allege and declare any impediment, why they may not be coupled together in Matrimony, by God's law, or the laws of this Realm; and will be bound, and sufficient sureties with him, to the parties;
 or else put in a caution (to the full value of such charges as the persons to be married do thereby sustain) to prove his allegation: then the solemnization must be deferred, until such time as the truth be tried.}_
 
-##  Solemnization of Matrimony
+## Solemnization of Matrimony
 
 _\textcolor{red}{If no impediment be alleged, then shall the Priest say unto the Man,}_
 
@@ -62,7 +62,7 @@ _\textcolor{red}{Then shall they loose their hands; and the woman with her right
 
 I Caitlin take thee Oliver to my wedded husband, to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love, cherish, and to obey, till death us do part, according to God's holy ordinance; and thereto I give thee my troth.
 
-_\textcolor{red}{Then shall they again loose their hands; and the man shall give unto the woman a ring, laying the same upon the book with the accustomed duty to the Priest and Clerk.}_
+_\textcolor{red}{Then shall they again loose their hands; and each shall give unto the other a ring, laying the same upon the book.}_
 
 The Lord be with you;\
 **And with thy spirit.**
@@ -70,7 +70,7 @@ The Lord be with you;\
 Let us pray.
 
 O Creator and preserver of mankind, giver of spiritual grace, bestower of eternal salvation, do Thou, O Lord, send Thy bles\+sing on these rings,
-that they who shall wear them may be armed with the strength of heavenly defence, and that it may be profitable unto their eternal salvations.
+that they who shall wear them may be armed with the strength of heavenly defence, and that it may be profitable unto their eternal salvation.
 Through Christ our Lord.
 **Amen.**
 
@@ -154,8 +154,8 @@ The trusted friend, the constant guide.
 
 Let us pray. _\textcolor{red}{(Please kneel)}_
 
-**Almighty God, unto whom all hearts be open, all desires known, and from whom no secrets are hid: Cleanse the thoughts of our hearts by the inspiration of thy Holy Spirit, that we may perfectly love thee, and worthily magnify thy holy name; through Christ our Lord.\
-Amen.**
+**Almighty God, unto whom all hearts be open, all desires known, and from whom no secrets are hid: Cleanse the thoughts of our hearts by the inspiration of thy Holy Spirit, that we may perfectly love thee, and worthily magnify thy holy name; through Christ our Lord.**\
+**Amen.**
 
 ## Introit - Tobit 7:14; 8:19; Psalm 128:1
 
@@ -176,7 +176,12 @@ Thomas Tallis (1505 - 1585), Missa Sine Nomine
 
 ## Wedding Collect
 
-O Eternal God, we humbly beseech thee, favourably to behold thy servants Oliver and Caitlin now to be joined in wedlock according to thy holy ordinance:
+The Lord be with you;\
+**And with thy spirit.**
+
+Let us pray. _\textcolor{red}{(Please kneel)}_
+
+O Eternal God, we humbly beseech thee, favourably to behold thy servants Oliver and Caitlin now joined in wedlock according to thy holy ordinance:
 and grant that they, seeking first thy kingdom and thy righteousness, may obtain the manifold blessings of thy grace;
 through Jesus Christ thy Son our Lord, who liveth and reigneth with thee, in the unity of the Holy Ghost, ever one God, world without end.\
 **Amen.**
@@ -243,7 +248,7 @@ That ne'er shall pass away.
 O bless as erst of old, \
 The Bridegroom and the Bride; \
 Bless with the holier stream that flowed \
-Forth from Thy piers\'ed Side.
+Forth from Thy piercèd Side.
 
 Before Thine Altar-throne \
 This mercy we implore; \
@@ -296,7 +301,7 @@ Of Christian man and maid \
 The Holy Three are with us, \
 The threefold grace is said,
 
-For dower of bless\`ed children, \
+For dower of blessèd children, \
 For love and faith's sweet sake, \
 For high mysterious union \
 Which naught on earth may break.
@@ -371,7 +376,7 @@ Amen.**
 
 Almighty God, our heavenly Father, who of his great mercy hath promised
 forgiveness of sins to all them that with hearty repentance and true faith turn
-unto him: Have mercy upon you; + pardon and deliver you from all your sins;
+unto him: Have mercy upon you; \+ pardon and deliver you from all your sins;
 confirm and strengthen you in all goodness; and bring you to everlasting life;
 through Jesus Christ our Lord. **Amen.**
 
@@ -563,10 +568,10 @@ hast consecrated the state of matrimony to such an excellent
 mystery, that in it is signified the sacramental union and marriage
 of Christ and the Church; O God, by Whom woman is joined
 to man, and the union, instituted in the beginning, is gifted with
-that bles+sing which alone has not been taken away either
+that bles\+sing which alone has not been taken away either
 through penalty of original sin or the judgement of the deluge;
 look graciously, we beseech Thee, on this Thine
-handmaid now to be joined in wedlock, who earnestly desireth to
+handmaid now joined in wedlock, who earnestly desireth to
 be guarded by Thy protection. Let the yoke of love and peace be
 upon her; let her be faithful and chaste; let her wed in Christ
 and ever remain a follower of holy matrons. Let her be loving
@@ -595,6 +600,8 @@ Thomas Tallis (1505 - 1585), Missa Sine Nomine
 
 ## Communion
 
+_\textcolor{red}{The couple shall receive Communion first.}_
+
 Thomas Tallis (1505 - 1585), A New Commandment
 
 ## Communion Sentence - Psalm 37:3-4
@@ -620,7 +627,7 @@ Depart in Peace; \
 
 The peace of God, which passeth all understanding, keep your hearts and minds
 in the knowledge and love of God, and of his Son Jesus Christ our Lord: and the
-blessing of God Almighty, + the Father, the Son, and the Holy Ghost, be amongst
+blessing of God Almighty, \+ the Father, the Son, and the Holy Ghost, be amongst
 you and remain with you always. **Amen.**
 
 ## Post Communion Hymn - EH 345
