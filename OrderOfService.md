@@ -62,8 +62,26 @@ _\textcolor{red}{Then shall they loose their hands; and the woman with her right
 
 I Caitlin take thee Oliver to my wedded husband, to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love, cherish, and to obey, till death us do part, according to God's holy ordinance; and thereto I give thee my troth.
 
-_\textcolor{red}{Then shall they again loose their hands; and the man shall give unto the woman a ring, laying the same upon the book with the accustomed duty to the Priest and Clerk.
-And the Priest, taking a ring, shall deliver it unto the man, to put it upon the fourth finger of the woman's left hand.
+_\textcolor{red}{Then shall they again loose their hands; and the man shall give unto the woman a ring, laying the same upon the book with the accustomed duty to the Priest and Clerk.}_
+
+The Lord be with you;\
+**And with thy spirit.**
+
+Let us pray.
+
+O Creator and preserver of mankind, giver of spiritual grace, bestower of eternal salvation, do Thou, O Lord, send Thy bles\+sing on these rings,
+that they who shall wear them may be armed with the strength of heavenly defence, and that it may be profitable unto their eternal salvations.
+Through Christ our Lord.
+**Amen.**
+
+Let us pray.
+
+Bl\+ess, O Lord, this ring which we hallow in Thy Holy Name, that they who shall wear them may be stedfast in Thy peace and abide in Thy will, and
+live, increase, and grow old in Thy love, and let the length of their days be multiplied.
+Through Christ our Lord.
+**Amen.**
+
+_\textcolor{red}{And the Priest, taking a ring, shall deliver it unto the man, to put it upon the fourth finger of the woman's left hand.
 And the man holding the ring there and taught by the Priest, shall say,}_
 
 With this ring I thee wed, with my body I thee worship, and with all my worldly goods I thee endow: In the name of the Father, and of the Son, and of the Holy Ghost. Amen.
@@ -400,7 +418,61 @@ Thomas Tallis (1505 - 1585), Missa Sine Nomine
 
 ## The Prayer of Consecration
 
-TODO
+All Glory be to thee, Almighty God, our heavenly Father, who of thy
+tender mercy didst give thine only Son Jesus Christ to suffer death upon the
+cross for our redemption; who made there (by his one oblation of himself
+once offered) a full, perfect, and sufficient sacrifice, oblation, and satisfaction
+for the sins of the whole world; and did institute, and in his holy Gospel
+command us to continue, a perpetual memory of that his precious death until his coming again;
+
+_\textcolor{red}{The sanctuary bells are rung to prepare us for the Lord's sacramental presence.}_
+
+Hear us, O merciful Father, we most humbly beseech thee; and grant that we
+receiving these thy creatures of bread and wine, according to thy Son our
+Saviour Jesus Christ's holy institution, in remembrance of his death and
+passion, may be partakers of his most blessed body and blood.
+
+Who, in the same night that he was betrayed, took Bread; and when he had
+given thanks, he brake it, and gave it to his disciples, saying,
+
+Take, eat, this is my Body which is given for you; Do this in remembrance of me. \+
+
+_\textcolor{red}{The sanctuary bells are rung to call us to adoration.}_
+
+Likewise after supper, he took the Cup; and when he had given thanks, he gave it to them, saying,
+
+Drink ye all of this; for this is my Blood of the New Covenant,
+which is shed for you and for many for the remission of sins:
+Do this, as oft as ye shall drink it, in remembrance of me. \+
+
+_\textcolor{red}{The sanctuary bells are rung again.}_
+
+Wherefore, O Lord and Heavenly Father, we thy humble
+servants, having in remembrance the precious death and passion of thy dear
+Son, his mighty resurrection and glorious ascension, according to his holy
+institution, do celebrate, and set forth before thy Divine Majesty with these thy
+holy gifts, the memorial which he hath willed us to make, rendering unto thee
+most hearty thanks for the innumerable benefits which he hath procured unto us.
+
+And we entirely desire thy fatherly goodness mercifully to accept this our
+sacrifice of praise and thanksgiving; most humbly beseeching thee to grant,
+that by the merits and death of thy Son Jesus Christ, and through faith in his
+blood, we and all thy whole Church may obtain remission of our sins, and all
+other benefits of his passion.
+
+And here we offer and present unto thee, O Lord, ourselves, our souls, and
+bodies, to be a reasonable, holy, and living sacrifice unto thee; humbly
+beseeching thee, that all we, who are partakers of this Holy Communion, may
+be fulfilled with thy grace and heavenly benediction.
+
+And although we be unworthy, through our manifold sins, to offer unto thee
+any sacrifice, yet we beseech thee to accept this our bounden duty and service;
+not weighing our merits, but pardoning our offences;
+
+Through Jesus Christ our Lord, by whom, and with whom, in the unity of the
+Holy Ghost, all honour and glory be unto thee, O Father Almighty, world
+without end.
+**Amen.**
 
 ## The Lord's Prayer
 
