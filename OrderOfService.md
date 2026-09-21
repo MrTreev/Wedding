@@ -58,7 +58,7 @@ _\textcolor{red}{The Minister receiving the woman at her father's hands, shall c
 
 I Oliver take thee Caitlin to my wedded wife, to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love and to cherish, till death us do part, according to God's holy ordinance; and thereto I plight thee my troth.
 
-_\textcolor{red}{Then shall they loose their hands; and the woman with her right hand taking the man by his right hand, shall likewise say after the Minister}_
+_\textcolor{red}{Then shall they loose their hands; and the woman with her right hand taking the man by his right hand, shall likewise say after the Minister.}_
 
 I Caitlin take thee Oliver to my wedded husband, to have and to hold from this day forward, for better for worse, for richer for poorer, in sickness and in health, to love, cherish, and to obey, till death us do part, according to God's holy ordinance; and thereto I give thee my troth.
 
@@ -76,7 +76,7 @@ Through Christ our Lord.
 
 Let us pray.
 
-Bl\+ess, O Lord, this ring which we hallow in Thy Holy Name, that they who shall wear them may be stedfast in Thy peace and abide in Thy will, and
+Bl\+ess, O Lord, these rings which we hallow in Thy Holy Name, that they who shall wear them may be stedfast in Thy peace and abide in Thy will, and
 live, increase, and grow old in Thy love, and let the length of their days be multiplied.
 Through Christ our Lord.
 **Amen.**
